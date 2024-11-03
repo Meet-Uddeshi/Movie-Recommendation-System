@@ -1,3 +1,5 @@
+#Project Summary
+
 **Features:**
 
 - **Personalized Recommendations :** Suggests similar movies based on content.
