@@ -1,2 +1,2 @@
 # Movie--Recommendation-System
-This is my first machine learning project
+This is my first ML project
