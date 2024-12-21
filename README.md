@@ -8,7 +8,7 @@
 - **Dynamic Filtering :** Users can explore movies tailored to their tastes.
 - **Responsive Design :** Adapts to different screen sizes in a structured layout.
 
-**Purpose:**
+**Purposes:**
 
 - **Improved Movie Discovery :** Helps users find enjoyable movies.
 - **Practical Data Science Application :** Showcases machine learning in recommendation systems.
